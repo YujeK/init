@@ -1,0 +1,7 @@
+pour changer  d'utilisateur tu fait :
+sudo - "username"
+tu lajoute au groupe sudo si necessaire. :
+usermod -aG sudo username
+tu regarde si c'est bon
+sudo whoami
+gg 
