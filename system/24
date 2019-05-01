@@ -1,3 +1,1 @@
-dpkg-query -f '${binary:Package}\n' -W (just names)
-or
-dpkg-query -l (all infos)
+dpkg-query -l
